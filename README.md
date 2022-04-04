@@ -1,7 +1,7 @@
 # Originários
 ## Projeto Final - Recode Pro 2021
 ### Squad 41
-
+Composto por: Amanda Santos, Andryele Pires, Carla Ribeiro,Diego Costa, John Michael e Vitor Mateus.
 Desenvolvimento de um site para venda de produtos e divulgação cultural indígena.
 Versão 3: ReactJS, Spring, PostgreSQL.
 
